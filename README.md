@@ -1,4 +1,4 @@
-# Shippable
+# Dynamic Chart
 Minimal app to get github open issues for given user and repository
 
 ###Prerequisites[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -14,16 +14,11 @@ Minimal app to get github open issues for given user and repository
 * Go to browser and open [http://localhost:3003](http://localhost:3003)
 
 ###Heroku
-This app is also hosted at [https://shippableapp.herokuapp.com/](https://shippableapp.herokuapp.com/)
+This app is also hosted at https://dynamic-chart.herokuapp.com/
 
 #####Improvements(given more time)
 * More validations could be added
-* Styling could have be enhanced
-* Usage of scope variables could be enhanced
-* Dropdowns suggesting values for repo and username could have been included
+* Styling could have been enhanced
+* Can add filter option
+*To add more quadrants that fetches data from different data sources.
 
-
-
-
-
-"# DynamicChart" 
